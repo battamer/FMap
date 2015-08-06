@@ -12,8 +12,8 @@ class Mapper:
             for line in f:
                 line = line.rstrip().split(',')
                 if line[0].lower() == state.lower():
-                    ll_lon, ll_lat = float(line[1]), float(line[3])
-                    ur_lon, ur_lat = float(line[2]), float(line[4])
+                    ur_lon, ll_lat = float(line[1]), float(line[3])
+                    ll_lon, ur_lat = float(line[2]), float(line[4])
                     center_lon = ll_lon + ur_lon
                     if math.copysign(1, ll_lon) != math.copysign(1, ur_lon):
                         center_lon = -180 + center_lon
@@ -27,9 +27,11 @@ class Mapper:
                                 lon_0 = center_lon)
                     self.m.readshapefile(states_shapefile_loc,
                                         'states', drawbounds = True)
-                    plt.show()
+    def displayMap(self):
+        plt.show()
     
 
 
 if __name__ == '__main__':
-    m = Mapper('USA')
+    m = Mapper('South Carolina')
+    m.displayMap()
