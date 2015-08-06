@@ -2,7 +2,7 @@ import math
 import sys
 
 data_file_path = 'Data/FM_service_contour_current.txt'
-data_file = open(data_file_path,'r')
+data_file = open(data_file_path, 'r')
 
 def stringToCoordinates(coord_string):
     coord_array = coord_string.split(',')
@@ -23,7 +23,7 @@ def coordinateDistance(coord_1, coord_2):#Haversine formula
             math.sin(long_delta)**2
     c = math.atan2(math.sqrt(a),math.sqrt(1-a))
 
-    return earth_radius * c 
+    return earth_radius * c
 
 for line_num, line in enumerate(data_file):
     line.rstrip()
