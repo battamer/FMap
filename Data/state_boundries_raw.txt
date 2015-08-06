@@ -1,0 +1,261 @@
+#Adapted from http://answers.google.com/answers/threadview?id=149284
+Alabama
+Longitude: 84° 51' W to 88° 28' W
+Latitude: 30° 13' N to 35° N
+http://www.netstate.com/states/geography/al_geography.htm
+
+Alaska
+Longitude: 130° W to 173° E
+Latitude: 54° 40' N to 71° 50' N
+http://www.netstate.com/states/geography/ak_geography.htm
+
+Arizona
+Longitude: 109° 3' W to 114° 50' W
+Latitude: 31° 20' N to 37° N
+http://www.netstate.com/states/geography/az_geography.htm
+
+Arkansas
+Longitude: 89° 41' W to 94° 42' W
+Latitude: 33° N to 36° 30' N
+http://www.netstate.com/states/geography/ar_geography.htm
+
+California
+Longitude: 114° 8' W to 124° 24' W
+Latitude: 32° 30' N to 42° N
+http://www.netstate.com/states/geography/ca_geography.htm
+
+Colorado
+Longitude: 102° W to 109° W
+Latitude: 37° N to 41° N
+http://www.netstate.com/states/geography/co_geography.htm
+
+Connecticut
+Longitude: 71° 47' W to 73° 44' W
+Latitude: 40° 58' N to 42° 3' N
+http://www.netstate.com/states/geography/ct_geography.htm
+
+Delaware
+Longitude: 75° 2' W to 75° 47' W
+Latitude: 38° 27' N to 39° 50' N
+http://www.netstate.com/states/geography/de_geography.htm
+
+Florida
+Longitude: 79° 48' W to 87° 38' W
+Latitude: 24° 30' N to 31° N
+http://www.netstate.com/states/geography/fl_geography.htm
+
+Georgia
+Longitude: 81° W to 85° 53' W
+Latitude: 30° 31' N to 35° N
+http://www.netstate.com/states/geography/ga_geography.htm
+
+Hawaii
+Longitude: 154° 40' W to 162° W
+Latitude: 16° 55' N to 23° N
+http://www.netstate.com/states/geography/hi_geography.htm
+
+Idaho
+Longitude: 111° W to 117° W
+Latitude: 42° N to 49° N
+http://www.netstate.com/states/geography/id_geography.htm
+
+Illinois
+Longitude: 87° 30' W to 91° 30' W
+Latitude: 36° 58' N to 42° 30' N
+http://www.netstate.com/states/geography/il_geography.htm
+
+Indiana
+Longitude: 84° 49' W to 88° 4' W
+Latitude: 37° 47' N to 41° 46' N
+http://www.netstate.com/states/geography/in_geography.htm
+
+Iowa
+Longitude: 89° 5' W to 96° 31' W
+Latitude: 40° 36' N to 43° 30' N
+http://www.netstate.com/states/geography/ia_geography.htm
+
+Kansas
+#Longitude: 94° 38' W to 102° 1' 34" W
+Longitude: 94° 38' W to 102° 1' W
+Latitude: 37° N to 40° N
+http://www.netstate.com/states/geography/ks_geography.htm
+
+Kentucky
+Longitude: 81° 58' W to 89° 34' W
+Latitude: 36° 30' N to 39° 9' N
+http://www.netstate.com/states/geography/ky_geography.htm
+
+Louisiana
+Longitude: 89° W to 94° W
+Latitude: 29° N to 33° N
+http://www.netstate.com/states/geography/la_geography.htm
+
+Maine
+Longitude: 66° 57' W to 71° 7' W
+Latitude: 43° 4' N to 47° 28' N
+http://www.netstate.com/states/geography/me_geography.htm
+
+Maryland
+Longitude: 75° 4' W to 79° 33' W
+Latitude: 37° 53' N to 39° 43' N
+http://www.netstate.com/states/geography/md_geography.htm
+
+Massachusetts
+Longitude: 69° 57' W to 73° 30' W
+Latitude: 41° 10' N to 42° 53' N
+http://www.netstate.com/states/geography/ma_geography.htm
+
+Michigan
+Longitude: 82° 26' W to 90° 31' W
+Latitude: 41° 41' N to 47° 30' N
+http://www.netstate.com/states/geography/mi_geography.htm
+
+Minnesota
+Longitude: 89° 34' W to 97° 12' W
+Latitude: 43° 34' N to 49° 23' N
+http://www.netstate.com/states/geography/mn_geography.htm
+
+Mississippi
+Longitude: 88° 7' W to 91° 41' W
+Latitude: 30° 13' N to 35° N
+http://www.netstate.com/states/geography/ms_geography.htm
+
+Missouri
+Longitude: 89° 6' W to 95° 42' W
+Latitude: 36° N to 40° 35' N
+http://www.netstate.com/states/geography/mo_geography.htm
+
+Montana
+Longitude: 104° 2' W to 116° 2' W
+Latitude: 44° 26' N to 49° N
+http://www.netstate.com/states/geography/mt_geography.htm
+
+Nebraska
+Longitude: 95° 25' W to 104° W
+Latitude: 40° N to 43° N
+http://www.netstate.com/states/geography/ne_geography.htm
+
+Nevada
+Longitude: 114° W to 120° W
+Latitude: 35° N to 42° N
+http://www.netstate.com/states/geography/nv_geography.htm
+
+New Hampshire
+Longitude: 70° 37' W to 72° 37' W
+Latitude: 42° 40' N to 45° 18' N
+http://www.netstate.com/states/geography/nh_geography.htm
+
+New Jersey
+#Longitude: 73° 53' 39" W to 75° 35' W
+#Latitude: 38° 55' N to 41° 21' 23" N
+Longitude: 73° 53' W to 75° 35' W
+Latitude: 38° 55' N to 41° 21' N
+http://www.netstate.com/states/geography/nj_geography.htm
+
+New Mexico
+Longitude: 103° W to 109° W
+Latitude: 31° 20' N to 37° N
+http://www.netstate.com/states/geography/nm_geography.htm
+
+New York
+#Longitude: 71° 47' 25" W to 79° 45' 54" W
+#Latitude: 40° 29' 40" N to 45° 0' 42" N
+Longitude: 71° 47' W to 79° 45' W
+Latitude: 40° 29' N to 45° 0' N
+http://www.netstate.com/states/geography/ny_geography.htm
+
+North Carolina
+Longitude: 75° 30' W to 84° 15' W
+Latitude: 34° N to 36° 21' N
+http://www.netstate.com/states/geography/nc_geography.htm
+
+North Dakota
+Longitude: 97° W to 104° W
+Latitude: 45° 55' N to 49° N
+http://www.netstate.com/states/geography/nd_geography.htm
+
+Ohio
+Longitude: 80° 32' W to 84° 49' W
+Latitude: 38° 27' N to 41° 58' N
+http://www.netstate.com/states/geography/oh_geography.htm
+
+Oklahoma
+Longitude: 94° 29' W to 103° W
+Latitude: 33° 35' N to 37° N
+http://www.netstate.com/states/geography/ok_geography.htm
+
+Oregon
+Longitude: 116° 45' W to 124° 30' W
+Latitude: 42° N to 46° 15' N
+http://www.netstate.com/states/geography/or_geography.htm
+
+Pennsylvania
+Longitude: 74° 43' W to 80° 31' W
+Latitude: 39° 43' N to 42° N
+http://www.netstate.com/states/geography/pa_geography.htm
+
+Rhode Island
+Longitude: 71° 8' W to 71° 53' W
+Latitude: 41° 18' N to 42° 1' N
+http://www.netstate.com/states/geography/ri_geography.htm
+
+South Carolina
+#Longitude: 78° 30" W to 83° 20' W
+#Latitude: 32° 4' 30" N to 35° 12' N
+Longitude: 78° W to 83° 20' W
+Latitude: 32° 4' N to 35° 12' N
+http://www.netstate.com/states/geography/sc_geography.htm
+
+South Dakota
+#Longitude: 98° 28' 33"W to 104° 3'W
+#Latitude: 42° 29' 30"N to 45° 56'N
+Longitude: 98° 28' W to 104° 3' W
+Latitude: 42° 29' N to 45° 56' N
+http://www.netstate.com/states/geography/sd_geography.htm
+
+Tennessee
+Longitude: 81° 37' W to 90° 28' W
+Latitude: 35° N to 36° 41' N
+http://www.netstate.com/states/geography/tn_geography.htm
+
+Texas
+Longitude: 93° 31' W to 106° 38' W
+Latitude: 25° 50' N to 36° 30' N
+http://www.netstate.com/states/geography/tx_geography.htm
+
+Utah
+Longitude: 109° W to 114° W
+Latitude: 37° N to 42° N
+http://www.netstate.com/states/geography/ut_geography.htm
+
+Vermont
+#Longitude: 71° 28' W to 73° 26' W
+#Latitude: 42° 44'N to 45° 0' 43"N
+Longitude: 71° 28' W to 73° 26' W
+Latitude: 42° 44' N to 45° 0' N
+http://www.netstate.com/states/geography/vt_geography.htm
+
+Virginia
+Longitude: 75° 13' W to 83° 37' W
+Latitude: 36° 31' N to 39° 37' N
+http://www.netstate.com/states/geography/va_geography.htm
+
+Washington
+Longitude: 116° 57' W to 124° 48' W
+Latitude: 45° 32' N to 49° N
+http://www.netstate.com/states/geography/wa_geography.htm
+
+West Virginia
+Longitude: 77° 40' W to 82° 40' W
+Latitude: 37° 10' N to 40° 40' N
+http://www.netstate.com/states/geography/wv_geography.htm
+
+Wisconsin
+Longitude: 86° 49' W to 92° 54' W
+Latitude: 42° 30' N to 47° 3' N
+http://www.netstate.com/states/geography/wi_geography.htm
+
+Wyoming
+Longitude: 104° 3' W to 111° 3' W
+Latitude: 41° N to 45° N
+http://www.netstate.com/states/geography/wy_geography.htm
