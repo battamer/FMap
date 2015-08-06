@@ -23,7 +23,7 @@ def coordinateDistance(coord_1, coord_2):#Haversine formula
             math.sin(long_delta)**2
     c = math.atan2(math.sqrt(a),math.sqrt(1-a))
 
-    return earth_radius * c 
+    return earth_radius * c
 
 for line_num, line in enumerate(data_file):
     line.rstrip()
