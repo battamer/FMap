@@ -2,7 +2,7 @@ import math
 import sys
 
 data_file_path = 'Data/FM_service_contour_current.txt'
-data_file = open(data_file_path,'r')
+data_file = open(data_file_path, 'r')
 
 def stringToCoordinates(coord_string):
     coord_array = coord_string.split(',')
