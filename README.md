@@ -8,3 +8,10 @@ Direct link to the dataset:
 ftp://ftp.fcc.gov/pub/Bureaus/MB/Databases/fm_service_contour_data/FM_service_contour_current.zip
 
 Data includes waypoints for the range of every FM transmitter.
+
+Note:	The maximum range of a transmitter is 119,468 m
+	One degree of latitude is approx. 111,138 m 
+	One degree of longitude is between 111,320 m and 35,650 m
+		(at (71.3776, -156.75375))
+	
+	So the grid should be 2 degrees of latitude by 4 degrees of longitude
