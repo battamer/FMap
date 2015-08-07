@@ -7,7 +7,7 @@ data_file_path = '../Data/FM_service_contour_current.txt'
 db_loc = '../Data/fmdb.db'
 sql = {'create_stations_table' : 
             'CREATE TABLE Stations\
-            (Station_ID         TEXT    NOT NULL,\
+            (Call_sign         TEXT    NOT NULL,\
              Transmitter_Lat    REAL    NOT NULL,\
              Transmitter_Lon    REAL    NOT NULL,\
              Max_range          REAL    NOT NULL,\
