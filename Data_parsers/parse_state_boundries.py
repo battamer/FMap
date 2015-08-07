@@ -42,7 +42,7 @@ for line in f:
 
         ur_deg, ur_min, ur_sec, ur_dir= \
                 int(re_res.group(7)), re_res.group(9),
-                re_res.group(11), re_res.group(122)
+                re_res.group(11), re_res.group(12)
         ur_min = int(ur_min) if ur_min else 0
         ur_sec = int(ur_sec) if ur_sec else 0
 
