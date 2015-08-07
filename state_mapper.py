@@ -25,10 +25,10 @@ class Mapper:
                                 urcrnrlon = ur_lon, urcrnrlat = ur_lat,
                                 projection = 'lcc', lat_1 = center_lat,
                                 lon_0 = center_lon)
-                    self.m.readshapefile(states_shapefile_loc,
-                                        'states', drawbounds = True)
-    def plotPoint(lat,lon):
-        self.m.plot(lat, lon, latlon=True, marker='D', color='m')
+                    #self.m.readshapefile(states_shapefile_loc,
+                    #                    'states', drawbounds = True)
+    def plotPoint(self, lat, lon):
+        self.m.plot(lat, lon, latlon=True, marker='o', color='m')
 
     def displayMap(self):
         plt.show()
