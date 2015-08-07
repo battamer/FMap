@@ -27,6 +27,9 @@ class Mapper:
                                 lon_0 = center_lon)
                     self.m.readshapefile(states_shapefile_loc,
                                         'states', drawbounds = True)
+    def plotPoint(lat,lon):
+        self.m.plot(lat, lon, latlon=True, marker='D', color='m')
+
     def displayMap(self):
         plt.show()
     
