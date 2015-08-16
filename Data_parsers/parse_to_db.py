@@ -6,14 +6,14 @@ import pickle
 data_file_path = '../Data/FM_service_contour_current.txt'
 db_loc = '../Data/fmdb.db'
 sql = {'create_stations_table' : 
-            'CREATE TABLE Stations\
-            (Call_sign         TEXT    NOT NULL,\
-             Transmitter_Lat    REAL    NOT NULL,\
-             Transmitter_Lon    REAL    NOT NULL,\
-             Max_range          REAL    NOT NULL,\
-             Grid_loc_lat       INT     NOT NULL,\
-             Grid_loc_lon       INT     NOT NULL,\
-             Waypoints          TEXT    NOT NULL);',
+            ('CREATE TABLE Stations'
+            'Call_sign         TEXT    NOT NULL,'
+            'Transmitter_Lat    REAL    NOT NULL,'
+            'Transmitter_Lon    REAL    NOT NULL,'
+            'Max_range          REAL    NOT NULL,'
+            'Grid_loc_lat       INT     NOT NULL,'
+            'Grid_loc_lon       INT     NOT NULL,'
+            'Waypoints          TEXT    NOT NULL);'),
         'drop_stations_table' :
             'DROP TABLE IF EXISTS Stations;',
         }
@@ -21,8 +21,8 @@ sql = {'create_stations_table' :
 
 def stationsInsertQuery(station_id, lat, lon, max_range, waypoints):
     grid_loc_lat, grid_loc_lon = coordinateGridLoc(lat, lon)
-    query = 'INSERT INTO Stations VALUES \
-                ("%s", %s, %s, %s, %s, %s, "%s");' % \
+    query = ('INSERT INTO Stations VALUES '
+                '("%s", %s, %s, %s, %s, %s, "%s");') % \
                 (station_id, lon, lat, max_range, 
                         grid_loc_lat, grid_loc_lon, waypoints)
     return query
