@@ -3,7 +3,7 @@ import sys
 import sqlite3 as lite
 import pickle
 from state_mapper import Mapper
-from geospacial_methods import coordinateGridLoc
+from geospacial_methods import coordinateGridLoc, coordinateDistance
 
 db_loc = 'Data/fmdb.db'
 sql = 	{'select_by_grid': ('SELECT * FROM Stations WHERE '
@@ -27,6 +27,8 @@ if __name__ == '__main__':
 										(lat_grid, lon_grid)
 				cur.execute(grid_select_query)
 				for row in cur:
-					map.plotPoint(row[1], row[2])
+					if row[3] < coordinateDistance(chas_sc_loc,\
+										 (row[1], row[2])):
+						map.plotPoint(row[1], row[2])
 		map.setBorders()
 		map.displayMap()

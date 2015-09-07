@@ -21,6 +21,7 @@ def coordinateDistance(coord_1, coord_2):#Haversine formula
 
     return earth_radius_m * c 
 
+
 def coordinateGridLoc(lat, lon):
     if lat <= 0:
         lat = abs(lat) + 180

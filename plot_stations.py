@@ -1,17 +1,11 @@
 import math
 import sys
 from state_mapper import Mapper
+from geospacial_methods import stringToCoordinates
 
 data_file_path = 'Data/FM_service_contour_current.txt'
 data_file = open(data_file_path,'r')
 state = 'usa'
-
-def stringToCoordinates(coord_string):
-    coord_array = coord_string.split(',')
-    for i in (0, 1):
-        coord_array[i] = coord_array[i].rstrip()
-    coord_tuple = (float(coord_array[0]), float(coord_array[1]))
-    return coord_tuple
 
 if __name__ == '__main__':
     m = Mapper(state)
